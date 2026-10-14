@@ -542,7 +542,7 @@
 					<code>/disconnect [message]</code>
 				</div>
 				<div class="description">
-					<p>Disconnect from the current network with an optionally-provided message.</p>
+					<p>Disconnect from the current network without removing its configuration.</p>
 				</div>
 			</div>
 
@@ -749,7 +749,7 @@
 					<code>/quit [message]</code>
 				</div>
 				<div class="description">
-					<p>Disconnect from the current network with an optional message.</p>
+					<p>Disconnect from and remove the current network and its configuration.</p>
 				</div>
 			</div>
 
